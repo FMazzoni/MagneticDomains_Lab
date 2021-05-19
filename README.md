@@ -22,3 +22,8 @@ sample.
 
 A little bit of "art" made during the analysis:
 
+
+![Image](images/alittlebitofphysicalart.png)
+
+
+
