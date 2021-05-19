@@ -6,4 +6,4 @@ Like all other labs in the class, we were given one week to research and underst
 
 This class and the Magnetic Domains lab specifically was my first introduction to image analysis using python.
 
- 
+![Image](E1ALL.png)
